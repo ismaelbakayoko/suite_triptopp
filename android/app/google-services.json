@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1074525941696",
+    "project_id": "triptop2024",
+    "storage_bucket": "triptop2024.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074525941696:android:de46ca1b4e94ddbfb02225",
+        "android_client_info": {
+          "package_name": "com.example.tourisme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP71sFkZGF_JTCwcA6j3C2LhUf2w_UJOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
